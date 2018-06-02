@@ -1,4 +1,4 @@
-![Banner](https://img.itch.zone/aW1nLzEyNzE4MjcucG5n/original/Rzpl16.png)
+[![Banner](https://img.itch.zone/aW1nLzEyNzE4MjcucG5n/original/Rzpl16.png)](https://bigaston.itch.io/pocket-watch)
 
 Pocket Watch is a little game created with Love2D! This game was inspired by Game&Watch! You can play it on Android and on Windows (for now).  
 Here you can play 2 minigames !
