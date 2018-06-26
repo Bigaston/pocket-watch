@@ -31,6 +31,6 @@ This code is under the *Apache License 2.0*
 The assets are under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) Licence  
 You can download the game on [Itch](https://bigaston.itch.io/pocket-watch) !
 
-If you like the game and you want to help me, you can [buy me a Coffee](https://ko-fi.com/bigaston)
+If you like the game and you want to help me, you can [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/A0A05WS6)
 
 Thanks to my beta testers! I've used [this](https://opengameart.org/content/512-sound-effects-8-bit-style) for some sound effects.
